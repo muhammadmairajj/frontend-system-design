@@ -1,10 +1,10 @@
 # Frontend System Design
 ### RADIO
-R -> Requirement Gathering
-A -> Architecture
-D -> Data Modeling
-I -> API Structure
-O -> Optimize
+1. R -> Requirement Gathering
+2. A -> Architecture
+3. D -> Data Modeling
+4. I -> API Structure
+5. O -> Optimize
 ![Screenshot 2024-09-03 222559](https://github.com/user-attachments/assets/af845f34-0817-4ec9-9755-513e8065096d)
 
 
