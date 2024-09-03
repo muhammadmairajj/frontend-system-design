@@ -1,0 +1,25 @@
+.main_sub_div {
+    width: 100%;
+    position: relative;
+    display: inline-flex;
+}
+
+input[type="text"] {
+    width: 100%;
+    border-radius: 8px;
+    padding: 10px 40px 10px 20px; 
+    box-sizing: border-box; 
+    border: 1px solid #ccc;
+}
+
+.clear_btn {
+    position: absolute;
+    top: 50%;
+    right: 10px; 
+    transform: translateY(-50%);
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+}
